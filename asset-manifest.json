@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/click-game-online/static/css/main.a61ceedc.chunk.css",
+    "main.js": "/click-game-online/static/js/main.b5781acc.chunk.js",
+    "main.js.map": "/click-game-online/static/js/main.b5781acc.chunk.js.map",
+    "runtime-main.js": "/click-game-online/static/js/runtime-main.4275c45d.js",
+    "runtime-main.js.map": "/click-game-online/static/js/runtime-main.4275c45d.js.map",
+    "static/css/2.c719f8fd.chunk.css": "/click-game-online/static/css/2.c719f8fd.chunk.css",
+    "static/js/2.f9d5b43d.chunk.js": "/click-game-online/static/js/2.f9d5b43d.chunk.js",
+    "static/js/2.f9d5b43d.chunk.js.map": "/click-game-online/static/js/2.f9d5b43d.chunk.js.map",
+    "static/js/3.999c9dfc.chunk.js": "/click-game-online/static/js/3.999c9dfc.chunk.js",
+    "static/js/3.999c9dfc.chunk.js.map": "/click-game-online/static/js/3.999c9dfc.chunk.js.map",
+    "index.html": "/click-game-online/index.html",
+    "static/css/2.c719f8fd.chunk.css.map": "/click-game-online/static/css/2.c719f8fd.chunk.css.map",
+    "static/css/main.a61ceedc.chunk.css.map": "/click-game-online/static/css/main.a61ceedc.chunk.css.map",
+    "static/js/2.f9d5b43d.chunk.js.LICENSE.txt": "/click-game-online/static/js/2.f9d5b43d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4275c45d.js",
+    "static/css/2.c719f8fd.chunk.css",
+    "static/js/2.f9d5b43d.chunk.js",
+    "static/css/main.a61ceedc.chunk.css",
+    "static/js/main.b5781acc.chunk.js"
+  ]
+}
